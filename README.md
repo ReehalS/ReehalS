@@ -37,7 +37,7 @@ If you find anything interesting and would like to collaborate, feel free to rea
 
 ## 🌐 Open Source Contributions
 
-### PureChart -[🔗](https://github.com/PureChart/purechart)
+### PureChart - [🔗](https://github.com/PureChart/purechart)
 - Fully customizable HTML/CSS charts for Ruby on Rails. A great alternative to charting libraries that use JavaScript and HTML canvas elements, providing better customization and rendering options.
 
 ## 🔬 Research

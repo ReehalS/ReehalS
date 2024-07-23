@@ -12,10 +12,10 @@ I am a Computer Science and Engineering student at UC Davis. I love tackling com
 If you find anything interesting and would like to collaborate, feel free to reach out to me at the email above!
 
 ### MecaMind -[🔗](https://github.com/ReehalS/MecaMind)
-- A mecanum wheel robot I'm currently building.
+- A mecanum wheel robot I'm currently building
 - Uses PID Algorithms to move in the desired direction (still being tuned)
 - Currently built with an Arduino Uno + Motor Shield + MPU 6050 Accelerometer and Gyro using C++
-- Moving to a Raspberry Pi 4 + Motor HAT + Camera soon
+- Moving to a Raspberry Pi 4 + Motor HAT + Camera setup soon
 
 ### Battleship bot -[🔗](https://github.com/ReehalS/battleship-bot)
 - Single-player Discord Battleship bot built using Node and Discord.js

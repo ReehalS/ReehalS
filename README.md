@@ -13,6 +13,7 @@ If you find anything interesting and would like to collaborate, feel free to rea
 
 ### MecaMind -[🔗](https://github.com/ReehalS/MecaMind)
 - A mecanum wheel robot I'm currently building.
+- Uses PID Algorithms to move in the desired direction (still being tuned)
 - Currently built with an Arduino Uno + Motor Shield + MPU 6050 Accelerometer and Gyro using C++
 - Moving to a Raspberry Pi 4 + Motor HAT + Camera soon
 

@@ -4,7 +4,6 @@
 
 <!-- [GitHub](https://github.com/reehals) | [Portfolio](https://reehals.github.io) -->
 
-![Sandeep's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ReehalS&theme=dracula)
 ## 👨‍🎓 About Me
 
 I am a Computer Science and Engineering student at UC Davis. I love tackling complex problems and creating innovative solutions through code and robotics.
@@ -57,3 +56,5 @@ If you find anything interesting and would like to collaborate, feel free to rea
 ---
 
 Thanks for stopping by! Let's connect and build something amazing together! 🚀
+
+![Sandeep's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ReehalS&theme=dracula)

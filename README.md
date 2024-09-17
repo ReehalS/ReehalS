@@ -11,11 +11,14 @@ I am a Computer Science and Engineering student at UC Davis. I love tackling com
 ## 🚧 Ongoing Projects
 If you find anything interesting and would like to collaborate, feel free to reach out to me at the email above!
 
+### RISC-V CPU [Name Pending] -[🔗](https://github.com/ReehalS/RISCVCPU)
+- CPU to run 32b RISC-V code
+- Built with Logism Evolution
+- Graphics/CLI coming soon
+
 ### MecaMind -[🔗](https://github.com/ReehalS/MecaMind)
-- A mecanum wheel robot I'm currently building
-- Uses PID Algorithms to move in the desired direction (still being tuned)
-- Currently built with an Arduino Uno + Motor Shield + MPU 6050 Accelerometer and Gyro using C++
-- Moving to a Raspberry Pi 4 + Motor HAT + Camera setup soon
+- A mecanum wheel robot I'm currently building that uses PID Control to move in specified directions (tuning required)
+- Currently built with an Arduino Uno R3 + Motor Shield + MPU 6050 Accelerometer and Gyro using C++
 
 ### Battleship bot -[🔗](https://github.com/ReehalS/battleship-bot)
 - Single-player Discord Battleship bot built using Node and Discord.js

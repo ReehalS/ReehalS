@@ -11,8 +11,8 @@ I am a Computer Science and Engineering student at UC Davis. I love tackling com
 ## 🚧 Ongoing Projects
 If you find anything interesting and would like to collaborate, feel free to reach out to me at the email above!
 
-### RISC-V CPU [Name Pending] -[🔗](https://github.com/ReehalS/RISCVCPU)
-- CPU to run 32b RISC-V code
+### Raptor32 -[🔗](https://github.com/ReehalS/Raptor32)
+- CPU to run RV32I subset of the RISC-V ISA
 - Built with Logism Evolution
 - Graphics/CLI coming soon
 

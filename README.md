@@ -57,12 +57,12 @@ If you find anything interesting and would like to collaborate, feel free to rea
 -  6th place at the World Finals of World Robot Olympiad 2020, Canada
 -  2nd place at the National Finals of World Robot Olympiad 2018
 -  24th place at the World Finals of World Robot Olympiad 2017, Costa Rica
--  1nd place at the National Finals of World Robot Olympiad 2017
+-  1st place at the National Finals of World Robot Olympiad 2017
 -  18th place at the World Finals of World Robot Olympiad 2016, India
 -  1st place at the National Finals of World Robot Olympiad 2016
 -  25th place at the National Finals of World Robot Olympiad 2015, Qatar
 -  1st place at the National Finals of World Robot Olympiad 2015
--  2nd place at the National Finals of the Wold Robot Olympiad 2011
+-  2nd place at the National Finals of the Wold Robot Olympiad 2011, Abu Dhabi
 
 ---
 

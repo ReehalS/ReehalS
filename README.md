@@ -47,15 +47,22 @@ If you find anything interesting and would like to collaborate, feel free to rea
 ## 🔬 Research
 
 ### Yarov-Yarovoy Lab, UC Davis
-- Researching computational methods for modeling Human Voltage-gated Calcium Channels (hCaV)
-- Leveraging AI Models like AlphaFold2 and RoseTTAFold to predict conformational ensembles of hCaV 1.2
-- Using Clustering, Subsampling, and Masking to predict diverse protein ensembles
+- Researched computational methods for modeling Human Voltage-gated Calcium Channels (hCaV).
+- Used novel AI Models like AlphaFold2 and RoseTTAFold to predict conformational ensembles of hCaV 1.2
+- Predicted more diverse protein ensembles using clustering, subsampling, and masking with the above models.
 
 
-## 🤖 Robotics Achievements 🏆
-
-- Multiple regional and national trophies, represented my country at the world finals 6 times, and won 3rd place at WRO World Finals Thailand 2018. [🔗](https://brickmasters.in/about-us)
-
+## 🤖 Robotics Achievements 🏆 - [🔗](https://brickmasters.in/about-us)
+-  3rd place at the World Finals of World Robot Olympiad 2018, Thailand
+-  6th place at the World Finals of World Robot Olympiad 2020, Canada
+-  2nd place at the National Finals of World Robot Olympiad 2018
+-  24th place at the World Finals of World Robot Olympiad 2017, Costa Rica
+-  1nd place at the National Finals of World Robot Olympiad 2017
+-  18th place at the World Finals of World Robot Olympiad 2016, India
+-  1st place at the National Finals of World Robot Olympiad 2016
+-  25th place at the National Finals of World Robot Olympiad 2015, Qatar
+-  1st place at the National Finals of World Robot Olympiad 2015
+-  2nd place at the National Finals of the Wold Robot Olympiad 2011
 
 ---
 

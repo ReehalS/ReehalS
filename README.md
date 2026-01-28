@@ -1,48 +1,36 @@
 # Hi there, I'm Sandeep Reehal! 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-sreehal@ucdavis.edu-red?style=flat&logo=Gmail&logoColor=white)](mailto:sreehal@ucdavis.edu)   [![Linkedin Badge](https://img.shields.io/badge/-Sandeep_Reehal-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sandeep-reehal-385821263)   [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white)](https://github.com/reehals)    [![Link Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=react&logoColor=white)](https://reehals.github.io)
+[![Gmail Badge](https://img.shields.io/badge/-sreehal@ucdavis.edu-red?style=flat&logo=Gmail&logoColor=white)](mailto:sreehal@ucdavis.edu)   [![Linkedin Badge](https://img.shields.io/badge/-Sandeep_Reehal-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sandeep-reehal-385821263)   [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white)](https://github.com/reehals)    [![Link Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=react&logoColor=white)](https://portfolio.sandeepreehal.com/)
 
-<!-- [GitHub](https://github.com/reehals) | [Portfolio](https://reehals.github.io) -->
+<!-- [GitHub](https://github.com/reehals) | [Portfolio](https://portfolio.sandeepreehal.com/) -->
 
-## 👨‍🎓 About Me
+## About Me
 
-I am a Computer Science and Engineering student at UC Davis. I love tackling complex problems and creating innovative solutions through code and robotics.
+I am a Computer Science and Engineering student at UC Davis with experience in full-stack software development, applied machine learning, and systems engineering. I enjoy building end-to-end products that combine strong engineering fundamentals with real-world impact, from mobile and web platforms to research-driven ML systems.
 
-## 🚧 Ongoing Projects
-If you find anything interesting and would like to collaborate, feel free to reach out to me at the email above!
+My work spans academic research, startup environments, and large-scale student organizations, with an emphasis on clean design, scalability, and well-structured abstractions.
 
-### Raptor32 -[🔗](https://github.com/ReehalS/Raptor32)
-- CPU to run RV32I subset of the RISC-V ISA with 5 stage pipeline
-- Built with Logism Evolution
-- Graphics/CLI coming soon
+## Current Projects
 
-### MecaMind -[🔗](https://github.com/ReehalS/MecaMind)
-- A mecanum wheel robot I'm currently building that uses PID Control to move in specified directions (tuning required)
-- Currently built with an Arduino Uno R3 + Motor Shield + MPU 6050 Accelerometer and Gyro using C++
+### Loadstone
+- Mobile-first decision support and productivity platform combining task planning, wellbeing signals, and AI-assisted workflows
+- Built with React Native, NestJS, Azure Cosmos DB, and Azure OpenAI
+- Focused on secure authentication, schema-validated APIs, and constrained AI tool usage
 
-### Battleship bot -[🔗](https://github.com/ReehalS/battleship-bot)
-- Single-player Discord Battleship bot built using Node and Discord.js
-- Multiplayer (Python+Discord.py) coming soon
+### Photography Scene Finder
+- Machine learning system for evaluating photographic composition and suggesting improved framing and angles
+- Built using TensorFlow and Python with a real-time scoring pipeline
+- Emphasis on aesthetic modeling, feature extraction, and training workflow optimization
 
-## ✅ Completed Projects
+### HackDavis
+- Technical Director for UC Davis’ largest student-run hackathon
+- Building and maintaining judging systems, team matching algorithms, event infrastructure, and a RAG-based AI chatbot
+- Supporting 1000+ participants, judges, and organizers with reliable, production-grade systems
 
-### Patient Management System - Nilay Health
-- Full stack web app for efficient patient management using React, Express, MongoDB, and Firebase
-- Automated appointment reminders with Twilio as well as automatic prescription PDF generation
-
-### Donation and Inventory Manager, HackDavis 2024 🏆 - [🔗](https://github.com/ReehalS/dcmh_hackdavis)
-- Won first prize for best hack for the Davis Community Meals and Housing non-profit
-- Developed a donation management app using React, Express, and MongoDB
-
-### Voice Assistant, BullTrack - [🔗](https://github.com/ReehalS/BulltrackSTT)
-- Built a voice assistant component for a Stock Advice app using React Native
-- Implemented on-device speech-to-text conversion for company names and strategy types
-
-
-## 🌐 Open Source Contributions
-
-### PureChart - [🔗](https://github.com/PureChart/purechart)
-- Fully customizable HTML/CSS charts for Ruby on Rails. A great alternative to charting libraries that use JavaScript and HTML canvas elements, providing better customization and rendering options.
+### Collaborative Trip Planner
+- Multi-user trip planning platform with shared activity suggestions, voting, and map-based workflows
+- Built with Next.js, PostgreSQL, Prisma, and GraphQL
+- Designed for concurrency, data consistency, and collaborative decision-making
 
 ## 🔬 Research
 
@@ -66,6 +54,6 @@ If you find anything interesting and would like to collaborate, feel free to rea
 
 ---
 
-Thanks for stopping by! Let's connect and build something amazing together! 🚀
+Thanks for stopping by. Feel free to explore my repositories or reach out if you’d like to collaborate.
 
 ![Sandeep's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ReehalS&theme=react)

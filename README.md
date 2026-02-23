@@ -32,7 +32,7 @@ My work spans academic research, startup environments, and large-scale student o
 - Built with Next.js, PostgreSQL, Prisma, and GraphQL
 - Designed for concurrency, data consistency, and collaborative decision-making
 
-## 🔬 Research
+## Research
 
 ### Yarov-Yarovoy Lab, UC Davis
 - Researched computational methods for modeling Human Voltage-gated Calcium Channels (hCaV).
@@ -40,7 +40,7 @@ My work spans academic research, startup environments, and large-scale student o
 - Predicted more diverse protein ensembles using clustering, subsampling, and masking with the above models.
 
 
-## 🤖 Robotics Achievements 🏆 - [🔗](https://brickmasters.in/about-us)
+## Robotics Achievements 🏆 - [🔗](https://brickmasters.in/about-us)
 -  3rd place at the World Finals of World Robot Olympiad 2018, Thailand
 -  6th place at the World Finals of World Robot Olympiad 2020, Canada
 -  2nd place at the National Finals of World Robot Olympiad 2018

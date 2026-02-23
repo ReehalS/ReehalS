@@ -1,4 +1,4 @@
-# Hi there, I'm Sandeep Reehal! 👋
+# Hi there, I'm Sandeep Reehal!
 
 [![Gmail Badge](https://img.shields.io/badge/-sreehal@ucdavis.edu-red?style=flat&logo=Gmail&logoColor=white)](mailto:sreehal@ucdavis.edu)   [![Linkedin Badge](https://img.shields.io/badge/-Sandeep_Reehal-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sandeep-reehal-385821263)   [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat&logo=Github&logoColor=white)](https://github.com/reehals)    [![Link Badge](https://img.shields.io/badge/-Portfolio-orange?style=flat&logo=react&logoColor=white)](https://portfolio.sandeepreehal.com/)
 
